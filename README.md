@@ -25,7 +25,7 @@ Check out some of my recent projects:
 Feel free to reach out to me if you'd like to chat or collaborate on a project:
 
 - Email: altinhysa84@gmail.com
-- LinkedIn: [Altin Hysa](- LinkedIn: [Altin Hysa](https://www.linkedin.com/in/altin-hysa-5a0b0925b) 
+- LinkedIn: [Altin Hysa](https://www.linkedin.com/in/altin-hysa-5a0b0925b) 
 
 Thanks for stopping by!
 
