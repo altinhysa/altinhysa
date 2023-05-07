@@ -19,6 +19,7 @@ I'm constantly striving to learn more about programming and software development
 Check out some of my recent projects:
 
 - [Phonebook](https://phonebook-956c.onrender.com): A simple project built with ReactJS,Node, Express and MongoDB
+- Checkout my repositories for more 
 
 ## Contact Me
 
